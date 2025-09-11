@@ -3,5 +3,5 @@
 @section('content')
     <h1>Hubungi</h1>
 
-    <p>Hubungi Nadhrah untuk mengenali tentang dirinya haha</p>
+    <p> Nadhrah untuk mengenali tentang dirinya haha</p>
 @endsection
